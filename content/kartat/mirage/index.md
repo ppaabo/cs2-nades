@@ -29,10 +29,34 @@ Kaikki instat on +w jumpthrow
 
 ![Spawn 5](./images/insta5.png)
 
-## T-Side
+## Muut T-spawnista lentävät
 
 ### Top connector
 
 ![Top con](./images/top_con.png)
+
+### Short
+
+![Short 1](./images/Short1.png)
+
+![Short 2](./images/short2.png)
+
+### Jungle
+
+![JNG Tspawn](./images/jungle%20tspawn.png)
+
+### Stairs
+
+![Stairs](./images/stairs%20tspawn.png)
+
+## T-Side A naatit
+
+### Jungle
+
+![JNG ramp](./images/jungle%20ramp.png)
+
+### Stairs
+
+![Portaat](./images/stairs%20ramp.png)
 
 ## CT-Side
