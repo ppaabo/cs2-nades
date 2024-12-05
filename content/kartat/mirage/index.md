@@ -4,9 +4,9 @@ date: "2024-11-24"
 toc: true
 ---
 
-## Mirage Instant Window
+## Instant Window
 
-Kaikki instat on +w jumpthrow
++W Jumpthrow
 ![Spawnit](./images/mirage_spawns.webp)
 
 ### Spawn 1
@@ -29,9 +29,11 @@ Kaikki instat on +w jumpthrow
 
 ![Spawn 5](./images/insta5.png)
 
-## Muut T-spawnista lentävät
+## Mid Smokes
 
 ### Top connector
+
++W Jumpthrow
 
 ![Top con](./images/top_con.png)
 
@@ -41,22 +43,34 @@ Kaikki instat on +w jumpthrow
 
 ![Short 2](./images/short2.png)
 
-### Jungle
+## A-Smokes
 
-![JNG Tspawn](./images/jungle%20tspawn.png)
-
-### Stairs
-
-![Stairs](./images/stairs%20tspawn.png)
-
-## T-Side A naatit
-
-### Jungle
+### Jungle: Ramp
 
 ![JNG ramp](./images/jungle%20ramp.png)
 
-### Stairs
+### Stairs: Ramp
 
 ![Portaat](./images/stairs%20ramp.png)
+
+### CT: Ramp
+
+![CT-Smoke](./images/CT_ramp.png)
+
+### Top Connector: Ramp
+
+![Top-Con](./images/topcon_ramp.png)
+
+### Deep Jungle: Ramp
+
+![Deep Jungle](./images/deepjng_ramp.png)
+
+### Jungle: T-Spawn
+
+![JNG Tspawn](./images/jungle%20tspawn.png)
+
+### Stairs: T-Spawn
+
+![Stairs](./images/stairs%20tspawn.png)
 
 ## CT-Side
