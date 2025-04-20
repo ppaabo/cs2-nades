@@ -1,65 +1,50 @@
 ---
 title: "Ancient"
-date: "2024-12-05"
 toc: true
 ---
 
 ## A-Site Smokes
 
-### CT
-
+### CT [Smoke]
 ![CT](./images/asite_ct.png)
 
-### Donut
-
+### Donut [Smoke]
 ![Donut](./images/asite_donut.png)
 
-## B-Site Smokes
+## B-Site Utility
 
-### Cave: T-Spawn
-
+### Cave [Smoke] (From T-Spawn)
 ![Cave](./images/bsite_cave_tspawn.png)
 
-### Long
-
+### Long [Smoke] (From Doors)
 ![Long](./images/bsite_long.png)
 
-### Short
-
+### Short [Smoke] (From Doors)
 ![Short](./images/bsite_short.png)
 
-### Ramp Door: CT-Spawn
-
-Run Jumpthrow
-
-![Door](./images/bramp_door.png)
-
-### Deep-CT
-
+### Deep CT [Smoke] (From Doors)
 ![Deep-CT](./images/bsite_deepct.png)
 
-## B-Site Other Nades
+### Ramp Door [Smoke] (From Short)
+Run Jumpthrow
+![Door](./images/bramp_door.png)
 
-### B-Site Corner Molotov
-
+### B-Site Corner [Molotov]
 ![Corner Molotov](./images/bsite_corner_mol.png)
 
-### B-Site Molotov
-
+### B-Site [Molotov]
 ![B-Site Molotov](./images/bsite_molly.png)
 
-### B-Site Flash
-
+### B-Site [Flash]
 Jumpthrow
-
 ![B-Site Flash](./images/bsite_flash.png)
 
 ## Mid Smokes
 
-### Redroom Smoke
-
+### Redroom [Smoke]
+Jumpthrow
 ![Redroom](./images/redroom.png)
 
-### Heaven Smoke
-
+### Heaven [Smoke]
+Jumpthrow
 ![Heaven](./images/heaven_tspawn.png)
