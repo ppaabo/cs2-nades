@@ -4,7 +4,7 @@ date: "2024-11-24"
 toc: true
 ---
 
-## Instant Window
+## Instant Window Smokes
 
 +W Jumpthrow
 ![Spawnit](./images/mirage_spawns.webp)
@@ -15,19 +15,19 @@ toc: true
 
 ### Spawn 2
 
-![Spawn 2](./images/insta2.png)
+![Spawn 5](./images/insta2.png)
 
 ### Spawn 3
 
-![Spawn 3](./images/insta3.png)
+![Spawn 2](./images/insta3.png)
 
 ### Spawn 4
 
-![Spawn 4](./images/insta4.png)
+![Spawn 3](./images/insta4.png)
 
 ### Spawn 5
 
-![Spawn 5](./images/insta5.png)
+![Spawn 4](./images/insta5.png)
 
 ## Mid Smokes
 
@@ -45,32 +45,37 @@ toc: true
 
 ## A-Smokes
 
-### Jungle: Ramp
+### Jungle (From Ramp)
 
-![JNG ramp](./images/jungle%20ramp.png)
+![Jungle ramp](./images/jungle%20ramp.png)
 
-### Stairs: Ramp
+### Jungle 2 (From Ramp)
 
-![Portaat](./images/stairs%20ramp.png)
+![Jungle 2 Ramp](./images/MIRAGE_JG_SMOKE.png)
 
-### CT: Ramp
+### Stairs (From Ramp)
+
+![Stairs](./images/stairs%20ramp.png)
+
+### Stairs 2 (From Ramp)
+![Stairs 2 Ramp](./images/MIRAGE_STAIRS_SMOKE.png)
+
+### CT (From Ramp)
 
 ![CT-Smoke](./images/CT_ramp.png)
 
-### Top Connector: Ramp
+### Top Connector (From Ramp)
 
 ![Top-Con](./images/topcon_ramp.png)
 
-### Deep Jungle: Ramp
+### Deep Jungle (From Ramp)
 
 ![Deep Jungle](./images/deepjng_ramp.png)
 
-### Jungle: T-Spawn
+### Jungle (From T-Spawn)
 
-![JNG Tspawn](./images/jungle%20tspawn.png)
+![JNG Tspawn](./images/MIRAGE_FASTJG_SMOKE.png)
 
-### Stairs: T-Spawn
+### Stairs (From T-Spawn)
 
-![Stairs](./images/stairs%20tspawn.png)
-
-## CT-Side
+![Stairs](./images/MIRAGE_FASTSTAIRS_SMOKE.png)

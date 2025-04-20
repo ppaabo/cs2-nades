@@ -4,15 +4,28 @@ date: "2024-11-24"
 toc: true
 ---
 
-## Nuke Outside Smokes
+## Outside Smokes
 
 ### Outside 1
 
 Jumpthrow
 
-![Outside 1](./images/Outside%201.png)
+![Outside 1](./images/NUKE_OUT_1.png)
 
 ### Outside 2
 
 +W Jumpthrow
-![Short 2](./images/Outside%202.png)
+![Outside 2](./images/NUKE_OUT_2.png)
+
+## A-Site Utility
+
+### Hut Molotov
+![Hut Molotov](./images/NUKE_HUT_MOL.png)
+
+### A-Site Molotov
+![A-Site Molotov](./images/NUKE_A_MOL.png)
+
+### A-Site Flash
+![A-Site Flash](./images/NUKE_A_FLASH.png)
+
+
