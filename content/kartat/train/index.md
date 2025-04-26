@@ -3,32 +3,36 @@ title: "Train"
 toc: true
 ---
 
-## A-Site Utility
+# A-Site Utility
+## Terrorist (T)
 
-### A-Site Flash 1
+### A-Site - [Flash] - (T-Spawn)
 Jumpthrow
-![A-Site Flash](./images/TRAIN_A_FLASH.png)
+![A-Site Flash](./images/A_FLASH_SPAWN.png)
 
-### A-Site Flash 2
+### A-Site 2 - [Flash] - (T-Spawn)
 Jumpthrow
-![A-Site Flash 2](./images/TRAIN_A_FLASH2.png)
+![A-Site Flash 2](./images/A_FLASH2_SPAWN.png)
 
-### Connector Smoke (From T-Spawn)
+### Connector - [Smoke] - (T-Spawn)
 Jumpthrow
-![Con Smoke](./images/TRAIN_ACON_SMOKE.png)
+![Con Smoke](./images/ACON_SMOKE_SPAWN.png)
 
-### Camera / Ivy Smoke
-![Camera Smoke](./images/TRAIN_CAMERA_SMOKE.png)
+### Camera / Ivy - [Smoke] - (T-Spawn)
+![Camera Smoke](./images/CAMERA_SMOKE_TSPAWN.png)
 
-### Sandwich Smoke
-![Sandwich Smoke](./images/TRAIN_SW_SMOKE.png)
+### Sandwich - [Smoke] - (T-Spawn)
+![Sandwich Smoke](./images/SW_SMOKE_TSPAWN.png)
 
-## B-Site Utility
+# B-Site Utility
+## Terrorist (T)
 
-### Connector Smoke (From B-Halls)
-![B Connector Smoke](./images/TRAIN_BCON_SMOKE.png)
+### Connector [Smoke] (B-Halls)
+![B Connector Smoke](./images/BCON_SMOKE_BHALLS.png)
 
-### B-Halls Flash
+## Counter-Terrorist (CT)
+
+### B-Halls [Flash] - (B-Halls)
 ![B-Halls Flash](./images/TRAIN_BHALL_FLASH.png)
 
 

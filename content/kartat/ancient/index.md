@@ -3,48 +3,62 @@ title: "Ancient"
 toc: true
 ---
 
-## A-Site Smokes
+# A-Site Lineups
 
-### CT [Smoke]
-![CT](./images/asite_ct.png)
+## Terrorists (T)
 
-### Donut [Smoke]
-![Donut](./images/asite_donut.png)
+### CT - [Smoke] (Outside A-Main)
+* Jumpthrow
+![CT](./images/act_smoke_main.png)
 
-## B-Site Utility
+### Donut - [Smoke] - (Outside A-Main)
+* Jumpthrow
+![Donut](./images/adonut_smoke_main.png)
 
-### Cave [Smoke] (From T-Spawn)
-![Cave](./images/bsite_cave_tspawn.png)
+# B-Site Lineups
 
-### Long [Smoke] (From Doors)
-![Long](./images/bsite_long.png)
+## Terrorists (T)
 
-### Short [Smoke] (From Doors)
-![Short](./images/bsite_short.png)
+### Cave - [Smoke] - (T-Spawn)
+* Jumpthrow
+![Cave](./images/bcave_smoke_tspawn.png)
 
-### Deep CT [Smoke] (From Doors)
-![Deep-CT](./images/bsite_deepct.png)
+### Long - [Smoke] - (Doors)
+![Long](./images/blong_smoke_door.png)
 
-### Ramp Door [Smoke] (From Short)
-Run Jumpthrow
-![Door](./images/bramp_door.png)
+### Short - [Smoke] - (Doors)
+![Short](./images/short_smoke_door.png)
 
-### B-Site Corner [Molotov]
-![Corner Molotov](./images/bsite_corner_mol.png)
+### Deep CT - [Smoke] - (Doors)
+* Jumpthrow
+![Deep-CT](./images/bdeepct_smoke_door.png)
 
-### B-Site [Molotov]
-![B-Site Molotov](./images/bsite_molly.png)
+### B-Site Corner [Molotov] - (Doors)
+![Corner Molotov](./images/bninja_mol_door.png)
 
-### B-Site [Flash]
-Jumpthrow
-![B-Site Flash](./images/bsite_flash.png)
+### B-Site [Molotov] - (Doors)
+![B-Site Molotov](./images/bsite_mol2_door.png)
 
-## Mid Smokes
+### B-Site [Flash] - (Outside Doors)
+* Jumpthrow
+![B-Site Flash](./images/bsite_flash_door.png)
 
-### Redroom [Smoke]
-Jumpthrow
-![Redroom](./images/redroom.png)
 
-### Heaven [Smoke]
-Jumpthrow
-![Heaven](./images/heaven_tspawn.png)
+## Counter-Terrorist (CT)
+
+### Ramp Door - [Smoke] - (From Short)
+* Run Jumpthrow
+![Door](./images/bdoor_smoke_short.png)
+
+
+# Mid Lineups
+
+## Terrorist (T)
+
+### Redroom - [Smoke] - (T-Spawn)
+* Jumpthrow
+![Redroom](./images/redroom_smoke_spawn.png)
+
+### Heaven - [Smoke] - (T-Spawn)
+* Jumpthrow
+![Heaven](./images/heaven_smoke_spawn.png)
