@@ -9,11 +9,11 @@ toc: true
 
 ### CT - [Smoke] (Outside A-Main)
 * Jumpthrow
-![CT](./images/act_smoke_main.png)
+![CT](./images/act_smoke_main.webp)
 
 ### Donut - [Smoke] - (Outside A-Main)
 * Jumpthrow
-![Donut](./images/adonut_smoke_main.png)
+![Donut](./images/adonut_smoke_main.webp)
 
 # B-Site Lineups
 
@@ -21,34 +21,34 @@ toc: true
 
 ### Cave - [Smoke] - (T-Spawn)
 * Jumpthrow
-![Cave](./images/bcave_smoke_tspawn.png)
+![Cave](./images/bcave_smoke_tspawn.webp)
 
 ### Long - [Smoke] - (Doors)
-![Long](./images/blong_smoke_door.png)
+![Long](./images/blong_smoke_door.webp)
 
 ### Short - [Smoke] - (Doors)
-![Short](./images/short_smoke_door.png)
+![Short](./images/short_smoke_door.webp)
 
 ### Deep CT - [Smoke] - (Doors)
 * Jumpthrow
-![Deep-CT](./images/bdeepct_smoke_door.png)
+![Deep-CT](./images/bdeepct_smoke_door.webp)
 
 ### B-Site Corner [Molotov] - (Doors)
-![Corner Molotov](./images/bninja_mol_door.png)
+![Corner Molotov](./images/bninja_mol_door.webp)
 
 ### B-Site [Molotov] - (Doors)
-![B-Site Molotov](./images/bsite_mol2_door.png)
+![B-Site Molotov](./images/bsite_mol2_door.webp)
 
 ### B-Site [Flash] - (Outside Doors)
 * Jumpthrow
-![B-Site Flash](./images/bsite_flash_door.png)
+![B-Site Flash](./images/bsite_flash_door.webp)
 
 
 ## Counter-Terrorist (CT)
 
 ### Ramp Door - [Smoke] - (From Short)
 * Run Jumpthrow
-![Door](./images/bdoor_smoke_short.png)
+![Door](./images/bdoor_smoke_short.webp)
 
 
 # Mid Lineups
@@ -57,8 +57,8 @@ toc: true
 
 ### Redroom - [Smoke] - (T-Spawn)
 * Jumpthrow
-![Redroom](./images/redroom_smoke_spawn.png)
+![Redroom](./images/redroom_smoke_spawn.webp)
 
 ### Heaven - [Smoke] - (T-Spawn)
 * Jumpthrow
-![Heaven](./images/heaven_smoke_spawn.png)
+![Heaven](./images/heaven_smoke_spawn.webp)

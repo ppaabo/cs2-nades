@@ -8,23 +8,23 @@ toc: true
 
 ### Spawn 1
 * +w Jumpthrow
-![Spawn 1](./images/INSTAWIN1_SMOKE_T.png)
+![Spawn 1](./images/INSTAWIN1_SMOKE_T.webp)
 
 ### Spawn 2
 * +w Jumpthrow
-![Spawn 2](./images/INSTAWIN2_SMOKE_T.png)
+![Spawn 2](./images/INSTAWIN2_SMOKE_T.webp)
 
 ### Spawn 3
 * +w Jumpthrow
-![Spawn 3](./images/INSTAWIN3_SMOKE_T.png)
+![Spawn 3](./images/INSTAWIN3_SMOKE_T.webp)
 
 ### Spawn 4
 * +w Jumpthrow
-![Spawn 4](./images/INSTAWIN4_SMOKE_T.png)
+![Spawn 4](./images/INSTAWIN4_SMOKE_T.webp)
 
 ### Spawn 5
 * +w Jumpthrow
-![Spawn 5](./images/INSTAWIN5_SMOKE_T.png)
+![Spawn 5](./images/INSTAWIN5_SMOKE_T.webp)
 
 # Mid Lineups
 
@@ -32,15 +32,15 @@ toc: true
 
 ### Top connector - [Smoke] - (T-Spawn)
 +w Jumpthrow
-![Top con](./images/TOPCON_SMOKE_SPAWN.png.png)
+![Top con](./images/TOPCON_SMOKE_SPAWN.webp.webp)
 
 ### Short 1 - [Smoke] - (T-Spawn)
 * Jumpthrow
-![Short 1](./images/SHORT1_SMOKE_SPAWN.png)
+![Short 1](./images/SHORT1_SMOKE_SPAWN.webp)
 
 ### Short 2 - [Smoke] - (T-Spawn)
 * Jumpthrow
-![Short 2](./images/SHORT2_SMOKE_SPAWN.png)
+![Short 2](./images/SHORT2_SMOKE_SPAWN.webp)
 
 # A-Site Lineups
 
@@ -48,35 +48,35 @@ toc: true
 
 ### Jungle - [Smoke] - (Ramp)
 * Jumpthrow
-![Jungle ramp](./images/JUNGLE_SMOKE_RAMP.png)
+![Jungle ramp](./images/JUNGLE_SMOKE_RAMP.webp)
 
 ### Jungle 2 - [Smoke] - (Ramp)
-![Jungle 2 Ramp](./images/JUNGLE2_SMOKE_RAMP.png)
+![Jungle 2 Ramp](./images/JUNGLE2_SMOKE_RAMP.webp)
 
 ### Stairs - [Smoke] - (Ramp)
 * Jumpthrow
-![Stairs](./images/STAIRS1_SMOKE_RAMP.png)
+![Stairs](./images/STAIRS1_SMOKE_RAMP.webp)
 
 ### Stairs 2 - [Smoke] - (Ramp)
 * Jumpthrow (L+R Click)
-![Stairs 2 Ramp](./images/STAIRS2_SMOKE_RAMP.png)
+![Stairs 2 Ramp](./images/STAIRS2_SMOKE_RAMP.webp)
 
 ### CT - [Smoke] - (Ramp)
 * Jumpthrow
-![CT-Smoke](./images/CT_SMOKE_RAMP.png)
+![CT-Smoke](./images/CT_SMOKE_RAMP.webp)
 
 ### Top Connector - [Smoke] - (Ramp)
 * Jumpthrow
-![Top-Con](./images/TOPCON_SMOKE_RAMP.png)
+![Top-Con](./images/TOPCON_SMOKE_RAMP.webp)
 
 ### Deep Jungle - [Smoke] - (Ramp)
 * Jumpthrow
-![Deep Jungle](./images/DEEPJNG_SMOKE_RAMP.png)
+![Deep Jungle](./images/DEEPJNG_SMOKE_RAMP.webp)
 
 ### Jungle - [Smoke] - (T-Spawn)
 * Jumpthrow
-![JNG Tspawn](./images/FASTJG_SMOKE_SPAWN.png)
+![JNG Tspawn](./images/FASTJG_SMOKE_SPAWN.webp)
 
 ### Stairs - [Smoke] - (T-Spawn)
 * Jumpthrow
-![Stairs](./images/FASTSTAIRS_SMOKE_SPAWN.png)
+![Stairs](./images/FASTSTAIRS_SMOKE_SPAWN.webp)
