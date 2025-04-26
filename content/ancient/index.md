@@ -35,6 +35,11 @@ Jumpthrow
 Jumpthrow
 [![Deep-CT](./images/bdeepct_smoke_door.webp)](./images/bdeepct_smoke_door.webp)
 
+### Site - [Smoke] - (T-Spawn)
+
++w Jumpthrow
+[![Site Smoke](./images/bsite_smoke_tspawn.webp)](./images/bsite_smoke_tspawn.webp)
+
 ### B-Site Corner [Molotov] - (Doors)
 
 [![Corner Molotov](./images/bninja_mol_door.webp)](./images/bninja_mol_door.webp)
@@ -43,6 +48,11 @@ Jumpthrow
 
 [![B-Site Molotov](./images/bsite_mol2_door.webp)](./images/bsite_mol2_door.webp)
 
+### Cave [Molotov] - (Doors)
+
+Run Jumpthrow (L+R Click)
+[![Cave Molotov](./images/cave_molly_doors.webp)](./images/cave_molly_doors.webp)
+
 ### B-Site [Flash] - (Outside Doors)
 
 Jumpthrow
@@ -50,10 +60,26 @@ Jumpthrow
 
 ## B-Site Lineups (CT-Side)
 
-### Ramp Door - [Smoke] - (From Short)
+### Doors - [Smoke] - (Short)
 
 Run Jumpthrow
 [![Door](./images/bdoor_smoke_short.webp)](./images/bdoor_smoke_short.webp)
+
+### Doors - [Smoke] - (CT-Spawn)
+
+Run Jumpthrow
+[![Door2](./images/door_smoke_ctspawn.webp)](./images/door_smoke_ctspawn.webp)
+[![Door2](./images/door_smoke_ctspawn2.webp)](./images/door_smoke_ctspawn2.webp)
+
+### Lane - [Molotov] - (Short)
+
+Run Jumpthrow (L+R Click)
+[![Lane Molotov](./images/lane_molly_short.webp)](./images/lane_molly_short.webp)
+
+### Lane - [Flash] - (Donut)
+
+Jumpthrow
+[![Lane Molotov](./images/lane_flash_donut.webp)](./images/lane_flash_donut.webp)
 
 ## Mid Lineups (T-Side)
 
@@ -62,7 +88,17 @@ Run Jumpthrow
 Jumpthrow
 [![Redroom](./images/redroom_smoke_spawn.webp)](./images/redroom_smoke_spawn.webp)
 
+### Redroom 2 - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Redroom](./images/redroom2_smoke_tspawn.webp)](./images/redroom2_smoke_tspawn.webp)
+
 ### Heaven - [Smoke] - (T-Spawn)
 
 Jumpthrow
 [![Heaven](./images/heaven_smoke_spawn.webp)](./images/heaven_smoke_spawn.webp)
+
+### Mid - [Flash] - (T-Spawn)
+
++w Jumpthrow
+[![Mid Flash](./images/mid_flash_tspawn.webp)](./images/mid_flash_tspawn.webp)

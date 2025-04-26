@@ -39,6 +39,11 @@ bookToC: true
 +w Jumpthrow
 [![Top con](./images/TOPCON_SMOKE_SPAWN.webp)](./images/TOPCON_SMOKE_SPAWN.webp)
 
+### Connector - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Connector](./images/con_smoke_tspawn.webp)](./images/con_smoke_tspawn.webp)
+
 ### Short 1 - [Smoke] - (T-Spawn)
 
 Jumpthrow
@@ -84,7 +89,7 @@ Jumpthrow
 ### Deep Jungle - [Smoke] - (Ramp)
 
 Jumpthrow
-[![Deep Jungle](./images/DEEPJNG_SMOKE_RAMP.webp)](./images/DEEPJNG_SMOKE_RAMP.webp)
+[![Deep Jungle](./images/DEEPJNG_SMOKE_RAMP.webp)](./images/deepjng_smoke_ramp.webp)
 
 ### Jungle - [Smoke] - (T-Spawn)
 
@@ -95,3 +100,9 @@ Jumpthrow
 
 Jumpthrow
 [![Stairs](./images/FASTSTAIRS_SMOKE_SPAWN.webp)](./images/FASTSTAIRS_SMOKE_SPAWN.webp)
+
+## B-Site Lineups (T-Side)
+
+### Site - [Flash] - (Apartment)
+
+[![B-Site Flash](./images/bsite_flash_apt.webp)](./images/bsite_flash_apt.webp)

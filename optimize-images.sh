@@ -1,5 +1,5 @@
 #!/bin/bash
-CONTENT_DIR="./content/maps"
+CONTENT_DIR="./content"
 QUALITY=80
 
 # Loop over 'images' folders inside maps/*

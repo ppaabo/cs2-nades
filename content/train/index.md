@@ -36,6 +36,6 @@ Jumpthrow
 
 ## B-Site Utility (CT-Side)
 
-### B-Halls [Flash] - (B-Halls)
+### B-Halls [Flash] - (B-Site)
 
 [![B-Halls Flash](./images/BHALL_FLASH_BSITE.webp)](./images/BHALL_FLASH_BSITE.webp)
