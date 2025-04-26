@@ -1,64 +1,68 @@
 ---
 title: "Ancient"
-toc: true
+bookToC: true
 ---
 
-# A-Site Lineups
-
-## Terrorists (T)
+## A-Site Lineups (T-Side)
 
 ### CT - [Smoke] (Outside A-Main)
-* Jumpthrow
+
+Jumpthrow
 ![CT](./images/act_smoke_main.webp)
 
 ### Donut - [Smoke] - (Outside A-Main)
-* Jumpthrow
+
+Jumpthrow
 ![Donut](./images/adonut_smoke_main.webp)
 
-# B-Site Lineups
-
-## Terrorists (T)
+## B-Site Lineups (T-Side)
 
 ### Cave - [Smoke] - (T-Spawn)
-* Jumpthrow
+
+Jumpthrow
 ![Cave](./images/bcave_smoke_tspawn.webp)
 
 ### Long - [Smoke] - (Doors)
+
 ![Long](./images/blong_smoke_door.webp)
 
 ### Short - [Smoke] - (Doors)
+
 ![Short](./images/short_smoke_door.webp)
 
 ### Deep CT - [Smoke] - (Doors)
-* Jumpthrow
+
+Jumpthrow
 ![Deep-CT](./images/bdeepct_smoke_door.webp)
 
 ### B-Site Corner [Molotov] - (Doors)
+
 ![Corner Molotov](./images/bninja_mol_door.webp)
 
 ### B-Site [Molotov] - (Doors)
+
 ![B-Site Molotov](./images/bsite_mol2_door.webp)
 
 ### B-Site [Flash] - (Outside Doors)
-* Jumpthrow
+
+Jumpthrow
 ![B-Site Flash](./images/bsite_flash_door.webp)
 
-
-## Counter-Terrorist (CT)
+## B-Site Lineups (CT-Side)
 
 ### Ramp Door - [Smoke] - (From Short)
-* Run Jumpthrow
+
+Run Jumpthrow
 ![Door](./images/bdoor_smoke_short.webp)
 
-
-# Mid Lineups
-
-## Terrorist (T)
+## Mid Lineups (T-Side)
 
 ### Redroom - [Smoke] - (T-Spawn)
-* Jumpthrow
+
+Jumpthrow
 ![Redroom](./images/redroom_smoke_spawn.webp)
 
 ### Heaven - [Smoke] - (T-Spawn)
-* Jumpthrow
+
+Jumpthrow
 ![Heaven](./images/heaven_smoke_spawn.webp)

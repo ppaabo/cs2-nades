@@ -1,4 +1,12 @@
 baseURL = ''
 languageCode = 'en-us'
 title = 'CS2-Nades'
-theme = 'dead-simple'
+theme = 'hugo-book'
+
+disablePathToLower = true
+
+[params]
+  BookTheme = 'dark'
+  BookToC = true
+  BookSection = "*"
+  BookSearch = false

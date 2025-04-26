@@ -1,31 +1,32 @@
 ---
 title: "Nuke"
-toc: true
+bookToC: true
 ---
 
-# Outside Lineups
-## Terrorist (T)
+## Outside Lineups - (T-Side)
 
 ### Outside 1 - [Smoke] - (T-Spawn)
-* Jumpthrow
+
+Jumpthrow
 ![Outside 1](./images/OUT1_SMOKE_T.webp)
 
 ### Outside 2 - [Smoke] - (T-Spawn)
-* Jumpthrow
+
+Jumpthrow
 ![Outside 2](./images/OUT2_SMOKE_T.webp)
 
-# A-Site Lineups
-## Terrorist (T)
+## A-Site Lineups (T-Side)
 
 ### Hut - [Molotov] - (Roof)
+
 ![Hut Molotov](./images/HUT_MOL_ROOF.webp)
 
 ### A-Site - [Molotov] - (Roof)
-* Jumpthrow
+
+Jumpthrow
 ![A-Site Molotov](./images/A_MOL_ROOF.webp)
 
 ### A-Site - [Flash] - (Roof)
-* Jumpthrow
+
+Jumpthrow
 ![A-Site Flash](./images/A_FLASH_ROOF.webp)
-
-
