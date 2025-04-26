@@ -8,34 +8,34 @@ bookToC: true
 ### A-Site - [Flash] - (T-Spawn)
 
 Jumpthrow
-![A-Site Flash](./images/A_FLASH_SPAWN.webp)
+[![A-Site Flash](./images/A_FLASH_SPAWN.webp)](./images/A_FLASH_SPAWN.webp)
 
 ### A-Site 2 - [Flash] - (T-Spawn)
 
 Jumpthrow
-![A-Site Flash 2](./images/A_FLASH2_SPAWN.webp)
+[![A-Site Flash 2](./images/A_FLASH2_SPAWN.webp)](./images/A_FLASH2_SPAWN.webp)
 
 ### Connector - [Smoke] - (T-Spawn)
 
 Jumpthrow
-![Con Smoke](./images/ACON_SMOKE_SPAWN.webp)
+[![Con Smoke](./images/ACON_SMOKE_SPAWN.webp)](./images/ACON_SMOKE_SPAWN.webp)
 
 ### Camera / Ivy - [Smoke] - (T-Spawn)
 
-![Camera Smoke](./images/CAMERA_SMOKE_TSPAWN.webp)
+[![Camera Smoke](./images/CAMERA_SMOKE_TSPAWN.webp)](./images/CAMERA_SMOKE_TSPAWN.webp)
 
 ### Sandwich - [Smoke] - (T-Spawn)
 
-![Sandwich Smoke](./images/SW_SMOKE_TSPAWN.webp)
+[![Sandwich Smoke](./images/SW_SMOKE_TSPAWN.webp)](./images/SW_SMOKE_TSPAWN.webp)
 
 ## B-Site Utility (T-Side)
 
 ### Connector [Smoke] (B-Halls)
 
-![B Connector Smoke](./images/BCON_SMOKE_BHALLS.webp)
+[![B Connector Smoke](./images/BCON_SMOKE_BHALLS.webp)](./images/BCON_SMOKE_BHALLS.webp)
 
 ## B-Site Utility (CT-Side)
 
 ### B-Halls [Flash] - (B-Halls)
 
-![B-Halls Flash](./images/BHALL_FLASH_BSITE.webp)
+[![B-Halls Flash](./images/BHALL_FLASH_BSITE.webp)](./images/BHALL_FLASH_BSITE.webp)
