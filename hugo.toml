@@ -10,3 +10,4 @@ disablePathToLower = true
   BookToC = true
   BookSection = "*"
   BookSearch = false
+  BookComments = false

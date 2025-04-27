@@ -19,3 +19,6 @@ Thumbs.db
 *.bak
 *.tmp
 _originals/
+
+# Other
+wrap-images.sh
