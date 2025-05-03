@@ -34,6 +34,10 @@ bookToC: true
 
 ## Mid Lineups (T-Side)
 
+### Ledge / Top Mid - [Smoke] - (T-Spawn)
+
+[![Top Mid](./images/topmid_smoke_tspawn.webp)](./images/topmid_smoke_tspawn.webp)
+
 ### Top connector - [Smoke] - (T-Spawn)
 
 +w Jumpthrow
@@ -53,7 +57,11 @@ Jumpthrow
 ### Short 2 - [Smoke] - (T-Spawn)
 
 Jumpthrow
-[![Short 2](./images/SHORT2_SMOKE_SPAWN.webp)](./images/SHORT2_SMOKE_SPAWN.webp)
+[![Short 2](./images/short2_smoke_tspawn.webp)](./images/short2_smoke_tspawn.webp)
+
+### Short 3 - [Smoke] - (Top Mid)
+
+[![Short 3](./images/short_smoke_topmid.webp)](./images/short_smoke_topmid.webp)
 
 ## A-Site Lineups (T-Side)
 
@@ -89,7 +97,11 @@ Jumpthrow
 ### Deep Jungle - [Smoke] - (Ramp)
 
 Jumpthrow
-[![Deep Jungle](./images/DEEPJNG_SMOKE_RAMP.webp)](./images/deepjng_smoke_ramp.webp)
+[![Deep Jungle](./images/deepjng_smoke_ramp.webp)](./images/deepjng_smoke_ramp.webp)
+
+### Deep Jungle 2 - [Smoke] - (Top Mid)
+
+[![Deep Jungle2](./images/deepjg_smoke_topmid.webp)](./images/deepjg_smoke_topmid.webp)
 
 ### Jungle - [Smoke] - (T-Spawn)
 
