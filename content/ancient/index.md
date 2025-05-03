@@ -5,7 +5,7 @@ bookToC: true
 
 ## A-Site Lineups (T-Side)
 
-### CT - [Smoke] (Outside A-Main)
+### CT - [Smoke] - (Outside A-Main)
 
 Jumpthrow
 [![CT](./images/act_smoke_main.webp)](./images/act_smoke_main.webp)
@@ -17,7 +17,7 @@ Jumpthrow
 
 ## B-Site Lineups (T-Side)
 
-### Cave - [Smoke] - (T-Spawn)
+### Cave Entrance - [Smoke] - (T-Spawn)
 
 Jumpthrow
 [![Cave](./images/bcave_smoke_tspawn.webp)](./images/bcave_smoke_tspawn.webp)
@@ -60,16 +60,21 @@ Jumpthrow
 
 ## B-Site Lineups (CT-Side)
 
-### Doors - [Smoke] - (Short)
-
-Run Jumpthrow
-[![Door](./images/bdoor_smoke_short.webp)](./images/bdoor_smoke_short.webp)
-
 ### Doors - [Smoke] - (CT-Spawn)
 
 Run Jumpthrow
 [![Door2](./images/door_smoke_ctspawn.webp)](./images/door_smoke_ctspawn.webp)
 [![Door2](./images/door_smoke_ctspawn2.webp)](./images/door_smoke_ctspawn2.webp)
+
+### Doors - [Smoke] - (Short)
+
+Run Jumpthrow
+[![Door](./images/bdoor_smoke_short.webp)](./images/bdoor_smoke_short.webp)
+
+### Doors - [Smoke] - (Long)
+
+Jumpthrow
+[![Door3](./images/door_smoke_long.webp)](./images/door_smoke_long.webp)
 
 ### Lane - [Molotov] - (Short)
 
