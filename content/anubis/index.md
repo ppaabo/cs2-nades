@@ -59,6 +59,11 @@ Jumpthrow
 
 ## Mid Lineups (T-Side)
 
+### Mid - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Mid Smoke](./images/mid_smoke_tspawn.webp)](./images/mid_smoke_tspawn.webp)
+
 ### Temple - [Smoke] - (Outside Mid)
 
 Jumpthrow
