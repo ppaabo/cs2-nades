@@ -51,7 +51,6 @@ Jumpthrow
 ### Short 1 - [Smoke] - (T-Spawn)
 
 Jumpthrow
-
 [![Short 1](./images/SHORT1_SMOKE_SPAWN.webp)](./images/SHORT1_SMOKE_SPAWN.webp)
 
 ### Short 2 - [Smoke] - (T-Spawn)
@@ -62,6 +61,10 @@ Jumpthrow
 ### Short 3 - [Smoke] - (Top Mid)
 
 [![Short 3](./images/short_smoke_topmid.webp)](./images/short_smoke_topmid.webp)
+
+### Deep Jungle 2 - [Smoke] - (Top Mid)
+
+[![Deep Jungle2](./images/deepjg_smoke_topmid.webp)](./images/deepjg_smoke_topmid.webp)
 
 ## A-Site Lineups (T-Side)
 
@@ -98,10 +101,6 @@ Jumpthrow
 
 Jumpthrow
 [![Deep Jungle](./images/deepjng_smoke_ramp.webp)](./images/deepjng_smoke_ramp.webp)
-
-### Deep Jungle 2 - [Smoke] - (Top Mid)
-
-[![Deep Jungle2](./images/deepjg_smoke_topmid.webp)](./images/deepjg_smoke_topmid.webp)
 
 ### Jungle - [Smoke] - (T-Spawn)
 

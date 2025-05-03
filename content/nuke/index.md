@@ -15,6 +15,19 @@ Jumpthrow
 Jumpthrow
 [![Outside 2](./images/OUT2_SMOKE_T.webp)](./images/OUT2_SMOKE_T.webp)
 
+### Main - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Top Main](./images/main_smoke_tpsawn.webp)](./images/main_smoke_tpsawn.webp)
+
+### Garage - [Smoke] - (T-Blue)
+
+[![Garage](./images/garage_smoke_tblue.webp)](./images/garage_smoke_tblue.webp)
+
+### CT-Blue - [Smoke] - (T-Blue)
+
+[![CT-Blue](./images/ctblue_smoke_tblue.webp)](./images/ctblue_smoke_tblue.webp)
+
 ## A-Site Lineups (T-Side)
 
 ### Hut - [Molotov] - (Roof)
