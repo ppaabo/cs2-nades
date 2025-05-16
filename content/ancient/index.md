@@ -10,6 +10,10 @@ bookToC: true
 Jumpthrow
 [![CT](./images/act_smoke_main.webp)](./images/act_smoke_main.webp)
 
+### CT - [Smoke] - (Mid)
+
+[![CT2](./images/ct_smoke_mid.webp)](./images/ct_smoke_mid.webp)
+
 ### Donut - [Smoke] - (Outside A-Main)
 
 Jumpthrow
@@ -57,6 +61,11 @@ Run Jumpthrow (L+R Click)
 
 Jumpthrow
 [![B-Site Flash](./images/bsite_flash_door.webp)](./images/bsite_flash_door.webp)
+
+### B-Site 2 [Flash] - (Outside Doors)
+
+Jumpthrow
+[![B-Site Flash 2](./images/bsite_flash2_doors.webp)](./images/bsite_flash2_doors.webp)
 
 ## B-Site Lineups (CT-Side)
 
@@ -107,3 +116,8 @@ Jumpthrow
 
 +w Jumpthrow
 [![Mid Flash](./images/mid_flash_tspawn.webp)](./images/mid_flash_tspawn.webp)
+
+### Mid 2 - [Flash] - (T-Spawn)
+
++w Jumpthrow
+[![Mid Flash2](./images/mid_flash2_tspawn.webp)](./images/mid_flash2_tspawn.webp)
