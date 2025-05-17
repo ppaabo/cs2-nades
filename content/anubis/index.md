@@ -43,7 +43,7 @@ Jumpthrow
 ### B-Lurk - [Smoke] - (T-Spawn)
 
 Jumpthrow
-[![CT-Smoke](./images/blurk_smoke_tspawn.webp)](./images/blurk_smoke_tspawn.webp)
+[![B-Lurk Smoke](./images/blurk_smoke_tspawn.webp)](./images/blurk_smoke_tspawn.webp)
 
 ### B-Site - [Flash] - (B-Main)
 
@@ -80,4 +80,5 @@ Jumpthrow
 
 ### Doors - [Molotov] - (Outside Mid)
 
+Run + Jumpthrow
 [![Doors Molotov](./images/mid_mol_mid.webp)](./images/mid_mol_mid.webp)
