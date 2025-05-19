@@ -15,9 +15,19 @@ Jumpthrow
 Jumpthrow
 [![A-Site Flash](./images/asite_flash_water.webp)](./images/asite_flash_water.webp)
 
+### A-Site 2 - [Flash] - (Boxes)
+
+Crouch
+[![A-Site Flash2](./images/asite_flash_carpet.webp)](./images/asite_flash_carpet.webp)
+
 ### Camera - [Smoke] - (Boxes)
 
 [![Camera](./images/camera_smoke_boxes.webp)](./images/camera_smoke_boxes.webp)
+
+### A-Site / Cake - [Molotov] - (Boxes)
+
++W Jumpthrow
+[![CT-Smoke](./images/asite_molotov_carpet.webp)](./images/asite_molotov_carpet.webp)
 
 ### Heaven - [Molotov] - (Boxes)
 
@@ -27,6 +37,13 @@ Run Jumpthrow
 ### HS/Wall - [Molotov] - (Boxes)
 
 [![CT-Smoke](./images/hs_mol_boxes.webp)](./images/hs_mol_boxes.webp)
+
+## A-Site Lineups (CT-Side)
+
+### Stairs - [Smoke] - (CT-Spawn)
+
+Jumpthrow
+[![Stairs Smoke](./images/stairs_smoke_ctspawn.webp)](./images/stairs_smoke_ctspawn.webp)
 
 ## B-Site Lineups (T-Side)
 
@@ -50,6 +67,16 @@ Jumpthrow
 Shift + Jumpthrow
 [![CT-Smoke](./images/bsite_flash_bmain.webp)](./images/bsite_flash_bmain.webp)
 
+### B-Site 2 - [Flash] - (B-Main)
+
+Jumpthrow
+[![CT-Smoke](./images/bsite_flash_main.webp)](./images/bsite_flash_main.webp)
+
+### Pilar - [Molotov] - (B-Main)
+
+Jumpthrow
+[![CT-Smoke](./images/pilar_molotov_main.webp)](./images/pilar_molotov_main.webp)
+
 ## B-Site Lineups (CT-Side)
 
 ### B-Main - [Flash] - (CT)
@@ -63,6 +90,11 @@ Jumpthrow
 
 Jumpthrow
 [![Mid Smoke](./images/mid_smoke_tspawn.webp)](./images/mid_smoke_tspawn.webp)
+
+### Deep Connector - [Smoke] - (T-Spawn)
+
++W Jumpthrow
+[![Connector Smoke](./images/con_smoke_tspawn.webp)](./images/con_smoke_tspawn.webp)
 
 ### Temple - [Smoke] - (Outside Mid)
 
