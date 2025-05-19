@@ -26,6 +26,11 @@ Jumpthrow
 Jumpthrow
 [![Cave](./images/bcave_smoke_tspawn.webp)](./images/bcave_smoke_tspawn.webp)
 
+### Cave Entrance - [Smoke] - (Doors)
+
+Jumpthrow
+[![Cave Doors](./images/cave_smoke_doors.webp)](./images/cave_smoke_doors.webp)
+
 ### Site - [Smoke] - (T-Spawn)
 
 +w Jumpthrow
@@ -35,9 +40,19 @@ Jumpthrow
 
 [![Long](./images/blong_smoke_door.webp)](./images/blong_smoke_door.webp)
 
+### Long 2 - [Smoke] - (Doors)
+
+Jumpthrow
+[![Long](./images/long_smoke2_doors.webp)](./images/long_smoke2_doors.webp)
+
 ### Short - [Smoke] - (Doors)
 
 [![Short](./images/short_smoke_door.webp)](./images/short_smoke_door.webp)
+
+### Short 2 - [Smoke] - (Doors)
+
+Jumpthrow
+[![Short 2](./images/short_smoke2_doors.webp)](./images/short_smoke2_doors.webp)
 
 ### Deep CT - [Smoke] - (Doors)
 
