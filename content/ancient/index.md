@@ -21,6 +21,11 @@ Jumpthrow
 
 ## B-Site Lineups (T-Side)
 
+### Deep Cave - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Deep Cave](./images/deepcave_smoke_tspawn.webp)](./images/deepcave_smoke_tspawn.webp)
+
 ### Cave Entrance - [Smoke] - (T-Spawn)
 
 Jumpthrow
