@@ -1,0 +1,9 @@
+services:
+  hugo-server:
+    container_name: "hugo-server"
+    image: hugomods/hugo:base
+    command: server -D
+    volumes:
+      - ./:/src
+    ports:
+      - 1313:1313

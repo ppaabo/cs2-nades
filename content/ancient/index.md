@@ -36,7 +36,7 @@ Jumpthrow
 Jumpthrow
 [![Cave Doors](./images/cave_smoke_doors.webp)](./images/cave_smoke_doors.webp)
 
-### Site - [Smoke] - (T-Spawn)
+### Site Lurk - [Smoke] - (T-Spawn)
 
 +w Jumpthrow
 [![Site Smoke](./images/bsite_smoke_tspawn.webp)](./images/bsite_smoke_tspawn.webp)
