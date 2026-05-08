@@ -3,6 +3,18 @@ title: "Anubis"
 bookToC: true
 ---
 
+## Insta Lineups (CT-Side)
+
+### Stairs - [Smoke] - (CT-Spawn)
+
+Jumpthrow
+[![Stairs Smoke](./images/stairs_smoke_ctspawn.webp)](./images/stairs_smoke_ctspawn.webp)
+
+### Insta Carpet - [Smoke] - (CT-Spawn)
+
++w Jumpthrow
+[![Insta Carpet Smoke](./images/anubis_ct_smoke_carpet_insta.webp)](./images/anubis_ct_smoke_carpet_insta.webp)
+
 ## A-Site Lineups (T-Side)
 
 ### A-Main - [Flash] - (Carpet)
@@ -37,13 +49,6 @@ Run Jumpthrow
 ### HS/Wall - [Molotov] - (Boxes)
 
 [![CT-Smoke](./images/hs_mol_boxes.webp)](./images/hs_mol_boxes.webp)
-
-## A-Site Lineups (CT-Side)
-
-### Stairs - [Smoke] - (CT-Spawn)
-
-Jumpthrow
-[![Stairs Smoke](./images/stairs_smoke_ctspawn.webp)](./images/stairs_smoke_ctspawn.webp)
 
 ## B-Site Lineups (T-Side)
 

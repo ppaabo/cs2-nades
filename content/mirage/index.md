@@ -32,6 +32,28 @@ bookToC: true
 +w Jumpthrow
 [![Spawn 5](./images/INSTAWIN5_SMOKE_T.webp)](./images/INSTAWIN5_SMOKE_T.webp)
 
+## Instant Top Mid Smokes
+
+### Spawn 1
+
+[![Spawn 1](./images/mirage_t_smoke_mid_insta_spawn1.webp)](./images/mirage_t_smoke_mid_insta_spawn1.webp)
+
+### Spawn 2
+
+[![Spawn 2](./images/mirage_t_smoke_mid_insta_spawn2.webp)](./images/mirage_t_smoke_mid_insta_spawn2.webp)
+
+### Spawn 3
+
+[![Spawn 3](./images/mirage_t_smoke_mid_insta_spawn3.webp)](./images/mirage_t_smoke_mid_insta_spawn3.webp)
+
+### Spawn 4
+
+[![Spawn 4](./images/mirage_t_smoke_mid_insta_spawn4.webp)](./images/mirage_t_smoke_mid_insta_spawn4.webp)
+
+### Spawn 5
+
+[![Spawn 5](./images/mirage_t_smoke_mid_insta_spawn5.webp)](./images/mirage_t_smoke_mid_insta_spawn5.webp)
+
 ## Mid Lineups (T-Side)
 
 ### Ledge / Top Mid - [Smoke] - (T-Spawn)
