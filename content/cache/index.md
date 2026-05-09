@@ -15,7 +15,7 @@ bookToC: true
 
 ### Criss-Cross Left - [Smoke] - (Garage)
 
-[![Criss Cross Left](./images/cache_t_smoke_crisscross_r.webp)](./images/cache_t_smoke_crisscross_r.webp)
+[![Criss Cross Left](./images/cache_t_smoke_crisscross_l.webp)](./images/cache_t_smoke_crisscross_l.webp)
 
 ## A-Site Lineups (T-Side)
 
