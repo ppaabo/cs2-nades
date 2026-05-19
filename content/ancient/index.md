@@ -3,6 +3,33 @@ title: "Ancient"
 bookToC: true
 ---
 
+## Mid Lineups (T-Side)
+
+### Redroom - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Redroom](./images/redroom_smoke_spawn.webp)](./images/redroom_smoke_spawn.webp)
+
+### Redroom 2 - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Redroom](./images/redroom2_smoke_tspawn.webp)](./images/redroom2_smoke_tspawn.webp)
+
+### Heaven - [Smoke] - (T-Spawn)
+
+Jumpthrow
+[![Heaven](./images/ancient_t_smoke_heaven.webp)](./images/ancient_t_smoke_heaven.webp)
+
+### Mid - [Flash] - (T-Spawn)
+
++w Jumpthrow
+[![Mid Flash](./images/mid_flash_tspawn.webp)](./images/mid_flash_tspawn.webp)
+
+### Mid 2 - [Flash] - (T-Spawn)
+
++w Jumpthrow
+[![Mid Flash2](./images/mid_flash2_tspawn.webp)](./images/mid_flash2_tspawn.webp)
+
 ## A-Site Lineups (T-Side)
 
 ### CT - [Smoke] - (Outside A-Main)
@@ -114,30 +141,3 @@ Run Jumpthrow (L+R Click)
 
 Jumpthrow
 [![Lane Molotov](./images/lane_flash_donut.webp)](./images/lane_flash_donut.webp)
-
-## Mid Lineups (T-Side)
-
-### Redroom - [Smoke] - (T-Spawn)
-
-Jumpthrow
-[![Redroom](./images/redroom_smoke_spawn.webp)](./images/redroom_smoke_spawn.webp)
-
-### Redroom 2 - [Smoke] - (T-Spawn)
-
-Jumpthrow
-[![Redroom](./images/redroom2_smoke_tspawn.webp)](./images/redroom2_smoke_tspawn.webp)
-
-### Heaven - [Smoke] - (T-Spawn)
-
-Jumpthrow
-[![Heaven](./images/heaven_smoke_spawn.webp)](./images/heaven_smoke_spawn.webp)
-
-### Mid - [Flash] - (T-Spawn)
-
-+w Jumpthrow
-[![Mid Flash](./images/mid_flash_tspawn.webp)](./images/mid_flash_tspawn.webp)
-
-### Mid 2 - [Flash] - (T-Spawn)
-
-+w Jumpthrow
-[![Mid Flash2](./images/mid_flash2_tspawn.webp)](./images/mid_flash2_tspawn.webp)
