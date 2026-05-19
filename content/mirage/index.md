@@ -54,16 +54,21 @@ bookToC: true
 
 [![Spawn 5](./images/mirage_t_smoke_mid_insta_spawn5.webp)](./images/mirage_t_smoke_mid_insta_spawn5.webp)
 
+### Spawn 6
+
++w Jumpthrow (L+R Click)
+[![Spawn 6](./images/mirage_t_smoke_mid_insta_spawn6.webp)](./images/mirage_t_smoke_mid_insta_spawn6.webp)
+
 ## Mid Lineups (T-Side)
 
 ### Ledge / Top Mid - [Smoke] - (T-Spawn)
 
 [![Top Mid](./images/topmid_smoke_tspawn.webp)](./images/topmid_smoke_tspawn.webp)
 
-### Top connector - [Smoke] - (T-Spawn)
+### Top Connector - [Smoke] - (T-Spawn)
 
 +w Jumpthrow
-[![Top con](./images/TOPCON_SMOKE_SPAWN.webp)](./images/TOPCON_SMOKE_SPAWN.webp)
+[![Top con](./images/mirage_t_smoke_topcon.webp)](./images/mirage_t_smoke_topcon.webp)
 
 ### Connector - [Smoke] - (T-Spawn)
 
