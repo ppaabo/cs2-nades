@@ -11,3 +11,7 @@ disablePathToLower = true
   BookSection = "*"
   BookSearch = false
   BookComments = false
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 4
