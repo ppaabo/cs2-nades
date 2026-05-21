@@ -30,7 +30,7 @@ Run + Jumpthrow
 
 {{< image src="images/cache_t_smoke_a_cross_waterfall.webp" alt="Cross Waterfall" loading="lazy" >}}
 
-## B-Site Lineups (T-Side)
+## B-Site (T-Side)
 
 ### Sun Room -> CT [Smoke]
 

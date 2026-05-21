@@ -3,39 +3,44 @@ title: "Train"
 bookToC: true
 ---
 
-## A-Site Utility - (T-Side)
+# Train
 
-### A-Site - [Flash] - (T-Spawn)
+## A-Site [T]
+
+### T-Spawn -> A-Site [Flash]
+
+Jumpthrow  
+{{< image src="images/A_FLASH_SPAWN.webp" alt="A-Site Flash" loading="lazy" >}}
+
+### T-Spawn -> A-Site 2 [Flash]
+
+Jumpthrow  
+{{< image src="images/A_FLASH2_SPAWN.webp" alt="A-Site Flash 2" loading="lazy" >}}
+
+### T-Spawn -> Connector [Smoke]
+
+Jumpthrow  
+{{< image src="images/ACON_SMOKE_SPAWN.webp" alt="Con Smoke" loading="lazy" >}}
+
+### T-Spawn -> Camera/Ivy [Smoke]
 
 Jumpthrow
-[![A-Site Flash](./images/A_FLASH_SPAWN.webp)](./images/A_FLASH_SPAWN.webp)
+{{< image src="images/CAMERA_SMOKE_TSPAWN.webp" alt="Camera Smoke" loading="lazy" >}}
 
-### A-Site 2 - [Flash] - (T-Spawn)
+### T-Spawn -> Sandwich [Smoke]
+
+{{< image src="images/SW_SMOKE_TSPAWN.webp" alt="Sandwich Smoke" loading="lazy" >}}
+
+## B-Site [T]
+
+### B-Halls -> Connector [Smoke]
 
 Jumpthrow
-[![A-Site Flash 2](./images/A_FLASH2_SPAWN.webp)](./images/A_FLASH2_SPAWN.webp)
+{{< image src="images/BCON_SMOKE_BHALLS.webp" alt="B Connector Smoke" loading="lazy" >}}
 
-### Connector - [Smoke] - (T-Spawn)
+## B-Site [CT]
+
+### B-Site -> B-Halls [Flash]
 
 Jumpthrow
-[![Con Smoke](./images/ACON_SMOKE_SPAWN.webp)](./images/ACON_SMOKE_SPAWN.webp)
-
-### Camera / Ivy - [Smoke] - (T-Spawn)
-
-[![Camera Smoke](./images/CAMERA_SMOKE_TSPAWN.webp)](./images/CAMERA_SMOKE_TSPAWN.webp)
-
-### Sandwich - [Smoke] - (T-Spawn)
-
-[![Sandwich Smoke](./images/SW_SMOKE_TSPAWN.webp)](./images/SW_SMOKE_TSPAWN.webp)
-
-## B-Site Utility (T-Side)
-
-### Connector [Smoke] (B-Halls)
-
-[![B Connector Smoke](./images/BCON_SMOKE_BHALLS.webp)](./images/BCON_SMOKE_BHALLS.webp)
-
-## B-Site Utility (CT-Side)
-
-### B-Halls [Flash] - (B-Site)
-
-[![B-Halls Flash](./images/BHALL_FLASH_BSITE.webp)](./images/BHALL_FLASH_BSITE.webp)
+{{< image src="images/BHALL_FLASH_BSITE.webp" alt="B-Halls Flash" loading="lazy" >}}
