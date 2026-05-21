@@ -3,6 +3,8 @@ title: "Cache"
 bookToC: true
 ---
 
+# Cache
+
 ## Mid [T]
 
 ### T-Spawn -> Connector [Smoke]

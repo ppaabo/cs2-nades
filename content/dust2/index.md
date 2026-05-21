@@ -3,50 +3,51 @@ title: "Dust 2"
 bookToC: true
 ---
 
-## A-Site Lineups (T-Side)
+# Dust 2
 
-### Long - [Flash] - (T-Spawn)
+## Mid [T]
 
-Jumpthrow
-[![Long Flash](./images/long_flash_tspawn.webp)](./images/long_flash_tspawn.webp)
-
-### Cross - [Smoke] - (Long)
-
-[![Cross Smoke](./images/cross_smoke_long.webp)](./images/cross_smoke_long.webp)
-
-### Car - [Molotov] - (Long)
-
-+W Jumpthrow
-[![Car Molotov](./images/car_mol_long.webp)](./images/car_mol_long.webp)
-
-## A-Site Lineups (CT-Side)
-
-### Long Box - [Smoke] - (CT-Spawn)
+### T-Spawn -> Doors [Smoke]
 
 Jumpthrow
-[![Box smoke](./images/long_smoke_ct.webp)](./images/long_smoke_ct.webp)
+{{< image src="images/doors_smoke_tspawn.webp" alt="Doors Smoke" loading="lazy" >}}
 
-## B-Site Lineups (T-Side)
+### Suicide -> Doors [Smoke]
 
-### B-Doors - [Smoke] - (T-Spawn)
+{{< image src="images/doors_smoke_suicide.webp" alt="Doors Smoke 2" loading="lazy" >}}
 
-+W Jumpthrow
-[![BDoors Smoke](./images/bdoors_smoke_tspawn.webp)](./images/bdoors_smoke_tspawn.webp)
+## A-Site [T]
 
-### CT-Cross - [Smoke] - (Xbox)
-
-Crouch aim -> Stand up Jumpthrow
-[![CT Cross Smoke](./images/ctcross_smoke_xbox.webp)](./images/ctcross_smoke_xbox.webp)
-[![CT Cross Smoke](./images/ctcross2_smoke_xbox.webp)](./images/ctcross2_smoke_xbox.webp)
-
-## Mid Lineups (T-Side)
-
-### Doors Smoke - [Smoke] - (T-Spawn)
+### T-Spawn -> Long [Flash]
 
 Jumpthrow
-[![Doors Smoke](./images/doors_smoke_tspawn.webp)](./images/doors_smoke_tspawn.webp)
+{{< image src="images/long_flash_tspawn.webp" alt="Long Flash" loading="lazy" >}}
 
-### Doors Smoke 2 - [Smoke] - (Suicide)
+### Long -> Cross [Smoke]
+
+{{< image src="images/cross_smoke_long.webp" alt="Cross Smoke" loading="lazy" >}}
+
+### Long -> Car [Molotov]
+
++w Jumpthrow
+{{< image src="images/car_mol_long.webp" alt="Car Molotov" loading="lazy" >}}
+
+## A-Site [CT]
+
+### CT-Spawn -> Long Box [Smoke]
 
 Jumpthrow
-[![Doors Smoke 2](./images/doors_smoke_suicide.webp)](./images/doors_smoke_suicide.webp)
+{{< image src="images/long_smoke_ct.webp" alt="Box smoke" loading="lazy" >}}
+
+## B-Site [T]
+
+### T-Spawn -> B-Doors [Smoke]
+
++w Jumpthrow
+{{< image src="images/bdoors_smoke_tspawn.webp" alt="BDoors Smoke" loading="lazy" >}}
+
+### Xbox -> CT [Smoke]
+
+Crouch -> Stand up Jumpthrow
+{{< image src="images/ctcross_smoke_xbox.webp" alt="CT Cross Smoke" loading="lazy" >}}  
+{{< image src="images/ctcross2_smoke_xbox.webp" alt="CT Cross Smoke" loading="lazy" >}}
