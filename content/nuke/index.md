@@ -3,43 +3,45 @@ title: "Nuke"
 bookToC: true
 ---
 
-## Outside Lineups - (T-Side)
+# Nuke
 
-### Outside 1 - [Smoke] - (T-Spawn)
+## Outside [T]
 
-Jumpthrow
-[![Outside 1](./images/OUT1_SMOKE_T.webp)](./images/OUT1_SMOKE_T.webp)
-
-### Outside 2 - [Smoke] - (T-Spawn)
+### T-Spawn -> Outside 1 [Smoke]
 
 Jumpthrow
-[![Outside 2](./images/OUT2_SMOKE_T.webp)](./images/OUT2_SMOKE_T.webp)
+{{< image src="images/OUT1_SMOKE_T.webp" alt="Outside 1 Smoke" loading="lazy" >}}
 
-### Main - [Smoke] - (T-Spawn)
-
-Jumpthrow
-[![Top Main](./images/main_smoke_tpsawn.webp)](./images/main_smoke_tpsawn.webp)
-
-### Garage - [Smoke] - (T-Blue)
-
-[![Garage](./images/garage_smoke_tblue.webp)](./images/garage_smoke_tblue.webp)
-
-### CT-Blue - [Smoke] - (T-Blue)
-
-[![CT-Blue](./images/ctblue_smoke_tblue.webp)](./images/ctblue_smoke_tblue.webp)
-
-## A-Site Lineups (T-Side)
-
-### Hut - [Molotov] - (Roof)
-
-[![Hut Molotov](./images/HUT_MOL_ROOF.webp)](./images/HUT_MOL_ROOF.webp)
-
-### A-Site - [Molotov] - (Roof)
+### T-Spawn -> Outside 2 [Smoke]
 
 Jumpthrow
-[![A-Site Molotov](./images/A_MOL_ROOF.webp)](./images/A_MOL_ROOF.webp)
+{{< image src="images/OUT2_SMOKE_T.webp" alt="Outside 2 Smoke" loading="lazy" >}}
 
-### A-Site - [Flash] - (Roof)
+### T-Spawn -> Top Main [Smoke]
 
 Jumpthrow
-[![A-Site Flash](./images/A_FLASH_ROOF.webp)](./images/A_FLASH_ROOF.webp)
+{{< image src="images/main_smoke_tpsawn.webp" alt="Top Main Smoke" loading="lazy" >}}
+
+### T-Blue -> Garage [Smoke]
+
+{{< image src="images/garage_smoke_tblue.webp" alt="Garage Smoke" loading="lazy" >}}
+
+### T-Blue -> CT-Blue [Smoke]
+
+{{< image src="images/ctblue_smoke_tblue.webp" alt="CT-Blue Smoke" loading="lazy" >}}
+
+## A-Site [T]
+
+### Roof -> Hut [Molotov]
+
+{{< image src="images/HUT_MOL_ROOF.webp" alt="Hut Molotov" loading="lazy" >}}
+
+### Roof -> A-Site [Molotov]
+
+Jumpthrow
+{{< image src="images/A_MOL_ROOF.webp" alt="A-Site Molotov" loading="lazy" >}}
+
+### Roof -> A-Site [Flash]
+
+Jumpthrow
+{{< image src="images/A_FLASH_ROOF.webp" alt="A-Site Flash" loading="lazy" >}}
