@@ -3,37 +3,38 @@ title: "Cache"
 bookToC: true
 ---
 
-## Mid Lineups (T-Side)
+## Mid [T]
 
-### Connector - [Smoke] - (T-Spawn)
+### T-Spawn -> Connector [Smoke]
 
-[![Connector Smoke](./images/cache_t_smoke_con.webp)](./images/cache_t_smoke_con.webp)
+Run + Jumpthrow
+{{< image src="images/cache_t_smoke_con.webp" alt="Connector Smoke" loading="lazy" >}}
 
-### Criss-Cross Right - [Smoke] - (Garage)
+### Garage -> Criss-Cross Right [Smoke]
 
-[![Criss Cross Right](./images/cache_t_smoke_crisscross_r.webp)](./images/cache_t_smoke_crisscross_r.webp)
+{{< image src="images/cache_t_smoke_crisscross_r.webp" alt="Criss Cross Right" loading="lazy" >}}
 
-### Criss-Cross Left - [Smoke] - (Garage)
+### Garage -> Criss-Cross Left [Smoke]
 
-[![Criss Cross Left](./images/cache_t_smoke_crisscross_l.webp)](./images/cache_t_smoke_crisscross_l.webp)
+{{< image src="images/cache_t_smoke_crisscross_l.webp" alt="Criss Cross Left" loading="lazy" >}}
 
-## A-Site Lineups (T-Side)
+## A-Site [T]
 
-### Backsite - [Smoke] - (Outside Spawn)
+### Outside Spawn -> Backsite [Smoke]
 
-[![Backsite](./images/cache_t_smoke_a_backsite.webp)](./images/cache_t_smoke_a_backsite.webp)
+{{< image src="images/cache_t_smoke_a_backsite.webp" alt="Backsite" loading="lazy" >}}
 
-### Cross Waterfall - [Smoke] - (Outside Door)
+### Outside Door -> Cross Waterfall [Smoke]
 
-[![Cross Waterfall](./images/cache_t_smoke_a_cross_waterfall.webp)](./images/cache_t_smoke_a_cross_waterfall.webp)
+{{< image src="images/cache_t_smoke_a_cross_waterfall.webp" alt="Cross Waterfall" loading="lazy" >}}
 
 ## B-Site Lineups (T-Side)
 
-### CT - [Smoke] - (Sun Room)
+### Sun Room -> CT [Smoke]
 
-Middle click +w Jumpthrow
-[![CT Smoke](./images/cache_t_smoke_b_ct.webp)](./images/cache_t_smoke_b_ct.webp)
++w Jumpthrow (L+R Click)
+{{< image src="images/cache_t_smoke_b_ct.webp" alt="CT Smoke" loading="lazy" >}}
 
-### HS - [Molotov] - (Sun Room)
+### Sun Room -> HS [Molotov]
 
-[![HS Molotov](./images/cache_t_moltov_b_hs.webp)](./images/cache_t_moltov_b_hs.webp)
+{{< image src="images/cache_t_moltov_b_hs.webp" alt="HS Molotov" loading="lazy" >}}
