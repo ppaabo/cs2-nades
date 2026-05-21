@@ -3,141 +3,130 @@ title: "Ancient"
 bookToC: true
 ---
 
-## Mid Lineups (T-Side)
+# Ancient
 
-### Redroom - [Smoke] - (T-Spawn)
+## Mid [T]
 
-Jumpthrow
-[![Redroom](./images/redroom_smoke_spawn.webp)](./images/redroom_smoke_spawn.webp)
-
-### Redroom 2 - [Smoke] - (T-Spawn)
+### T-Spawn -> Redroom [Smoke]
 
 Jumpthrow
-[![Redroom](./images/redroom2_smoke_tspawn.webp)](./images/redroom2_smoke_tspawn.webp)
+{{< image src="images/redroom_smoke_spawn.webp" alt="Redroom" loading="lazy" >}}
 
-### Heaven - [Smoke] - (T-Spawn)
+### T-Spawn -> Redroom 2 [Smoke]
 
 Jumpthrow
-[![Heaven](./images/ancient_t_smoke_heaven.webp)](./images/ancient_t_smoke_heaven.webp)
+{{< image src="images/redroom2_smoke_tspawn.webp" alt="Redroom 2" loading="lazy" >}}
 
-### Mid - [Flash] - (T-Spawn)
+### T-Spawn -> Heaven [Smoke]
+
+Jumpthrow
+{{< image src="images/ancient_t_smoke_heaven.webp" alt="Heaven" loading="lazy" >}}
+
+### T-Spawn -> Mid [Flash]
 
 +w Jumpthrow
-[![Mid Flash](./images/mid_flash_tspawn.webp)](./images/mid_flash_tspawn.webp)
+{{< image src="images/mid_flash_tspawn.webp" alt="Mid Flash" loading="lazy" >}}
 
-### Mid 2 - [Flash] - (T-Spawn)
-
-+w Jumpthrow
-[![Mid Flash2](./images/mid_flash2_tspawn.webp)](./images/mid_flash2_tspawn.webp)
-
-## A-Site Lineups (T-Side)
-
-### CT - [Smoke] - (Outside A-Main)
-
-Jumpthrow
-[![CT](./images/act_smoke_main.webp)](./images/act_smoke_main.webp)
-
-### CT - [Smoke] - (Mid)
-
-[![CT2](./images/ct_smoke_mid.webp)](./images/ct_smoke_mid.webp)
-
-### Donut - [Smoke] - (Outside A-Main)
-
-Jumpthrow
-[![Donut](./images/adonut_smoke_main.webp)](./images/adonut_smoke_main.webp)
-
-## B-Site Lineups (T-Side)
-
-### Deep Cave - [Smoke] - (T-Spawn)
-
-Jumpthrow
-[![Deep Cave](./images/deepcave_smoke_tspawn.webp)](./images/deepcave_smoke_tspawn.webp)
-
-### Cave Entrance - [Smoke] - (T-Spawn)
-
-Jumpthrow
-[![Cave](./images/bcave_smoke_tspawn.webp)](./images/bcave_smoke_tspawn.webp)
-
-### Cave Entrance - [Smoke] - (Doors)
-
-Jumpthrow
-[![Cave Doors](./images/cave_smoke_doors.webp)](./images/cave_smoke_doors.webp)
-
-### Site Lurk - [Smoke] - (T-Spawn)
+### T-Spawn -> Mid 2 [Flash]
 
 +w Jumpthrow
-[![Site Smoke](./images/bsite_smoke_tspawn.webp)](./images/bsite_smoke_tspawn.webp)
+{{< image src="images/mid_flash2_tspawn.webp" alt="Mid Flash2" loading="lazy" >}}
 
-### Long - [Smoke] - (Doors)
+## A-Site [T]
 
-[![Long](./images/blong_smoke_door.webp)](./images/blong_smoke_door.webp)
-
-### Long 2 - [Smoke] - (Doors)
+### Outside A-Main -> CT [Smoke]
 
 Jumpthrow
-[![Long](./images/long_smoke2_doors.webp)](./images/long_smoke2_doors.webp)
+{{< image src="images/act_smoke_main.webp" alt="CT" loading="lazy" >}}
 
-### Short - [Smoke] - (Doors)
-
-[![Short](./images/short_smoke_door.webp)](./images/short_smoke_door.webp)
-
-### Short 2 - [Smoke] - (Doors)
+### Outside A-Main -> Donut [Smoke]
 
 Jumpthrow
-[![Short 2](./images/short_smoke2_doors.webp)](./images/short_smoke2_doors.webp)
+{{< image src="images/adonut_smoke_main.webp" alt="Donut" loading="lazy" >}}
 
-### Deep CT - [Smoke] - (Doors)
+### Mid -> CT [Smoke]
+
+{{< image src="images/ct_smoke_mid.webp" alt="CT2" loading="lazy" >}}
+
+## B-Site [T]
+
+### T-Spawn -> Deep Cave [Smoke]
 
 Jumpthrow
-[![Deep-CT](./images/bdeepct_smoke_door.webp)](./images/bdeepct_smoke_door.webp)
+{{< image src="images/deepcave_smoke_tspawn.webp" alt="Deep Cave" loading="lazy" >}}
 
-### B-Site Corner [Molotov] - (Doors)
+### T-Spawn -> Cave Entrance [Smoke]
 
-[![Corner Molotov](./images/bninja_mol_door.webp)](./images/bninja_mol_door.webp)
+Jumpthrow
+{{< image src="images/bcave_smoke_tspawn.webp" alt="Cave" loading="lazy" >}}
 
-### B-Site [Molotov] - (Doors)
+### T-Spawn -> Site Lurk [Smoke]
 
-[![B-Site Molotov](./images/bsite_mol2_door.webp)](./images/bsite_mol2_door.webp)
++w Jumpthrow
+{{< image src="images/bsite_smoke_tspawn.webp" alt="Site Smoke" loading="lazy" >}}
 
-### Cave [Molotov] - (Doors)
+### Doors -> Long [Smoke]
+
+{{< image src="images/blong_smoke_door.webp" alt="Long" loading="lazy" >}}
+
+### Doors -> Short [Smoke]
+
+{{< image src="images/short_smoke_door.webp" alt="Short" loading="lazy" >}}
+
+### Doors -> Cave [Molotov]
 
 Run Jumpthrow (L+R Click)
-[![Cave Molotov](./images/cave_molly_doors.webp)](./images/cave_molly_doors.webp)
+{{< image src="images/cave_molly_doors.webp" alt="Cave Molotov" loading="lazy" >}}
 
-### B-Site [Flash] - (Outside Doors)
-
-Jumpthrow
-[![B-Site Flash](./images/bsite_flash_door.webp)](./images/bsite_flash_door.webp)
-
-### B-Site 2 [Flash] - (Outside Doors)
+### Outside Doors -> Cave Entrance [Smoke]
 
 Jumpthrow
-[![B-Site Flash 2](./images/bsite_flash2_doors.webp)](./images/bsite_flash2_doors.webp)
+{{< image src="images/cave_smoke_doors.webp" alt="Cave Doors" loading="lazy" >}}
 
-## B-Site Lineups (CT-Side)
+### Outside Doors -> Long [Smoke]
 
-### Doors - [Smoke] - (CT-Spawn)
+Jumpthrow
+{{< image src="images/long_smoke2_doors.webp" alt="Long 2" loading="lazy" >}}
+
+### Outside Doors -> Short [Smoke]
+
+Jumpthrow
+{{< image src="images/short_smoke2_doors.webp" alt="Short 2" loading="lazy" >}}
+
+### Outside Doors -> Deep CT [Smoke]
+
+Jumpthrow
+{{< image src="images/bdeepct_smoke_door.webp" alt="Deep-CT" loading="lazy" >}}
+
+### Outside Doors -> B-Site [Flash]
+
+Jumpthrow
+{{< image src="images/bsite_flash_door.webp" alt="B-Site Flash" loading="lazy" >}}
+
+### Outside Doors -> B-Site 2 [Flash]
+
+Jumpthrow
+{{< image src="images/bsite_flash2_doors.webp" alt="B-Site Flash 2" loading="lazy" >}}
+
+## B-Site [CT]
+
+### CT-Spawn -> Doors [Smoke]
 
 Run Jumpthrow
-[![Door2](./images/door_smoke_ctspawn.webp)](./images/door_smoke_ctspawn.webp)
-[![Door2](./images/door_smoke_ctspawn2.webp)](./images/door_smoke_ctspawn2.webp)
+{{< image src="images/door_smoke_ctspawn.webp" alt="Door2" loading="lazy" >}}
+{{< image src="images/door_smoke_ctspawn2.webp" alt="Door2" loading="lazy" >}}
 
-### Doors - [Smoke] - (Short)
-
-Run Jumpthrow
-[![Door](./images/bdoor_smoke_short.webp)](./images/bdoor_smoke_short.webp)
-
-### Doors - [Smoke] - (Long)
+### Long -> Doors [Smoke]
 
 Jumpthrow
-[![Door3](./images/door_smoke_long.webp)](./images/door_smoke_long.webp)
+{{< image src="images/door_smoke_long.webp" alt="Door3" loading="lazy" >}}
 
-### Lane - [Molotov] - (Short)
+### Short -> Doors [Smoke]
+
+Run Jumpthrow
+{{< image src="images/bdoor_smoke_short.webp" alt="Door" loading="lazy" >}}
+
+### Short -> Lane [Molotov]
 
 Run Jumpthrow (L+R Click)
-[![Lane Molotov](./images/lane_molly_short.webp)](./images/lane_molly_short.webp)
-
-### Lane - [Flash] - (Donut)
-
-Jumpthrow
-[![Lane Molotov](./images/lane_flash_donut.webp)](./images/lane_flash_donut.webp)
+{{< image src="images/lane_molly_short.webp" alt="Lane Molotov" loading="lazy" >}}
