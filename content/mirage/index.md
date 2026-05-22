@@ -87,6 +87,11 @@ Jumpthrow
 Jumpthrow  
 {{< image src="images/short2_smoke_tspawn.webp" alt="Short 2 Smoke" loading="lazy" >}}
 
+### TV -> Window [Smoke]
+
++w Jumpthrow
+{{< image src="images/t_smoke_window_tv.webp" alt="Window Smoke" loading="lazy" >}}
+
 ### Top Mid -> Short [Smoke]
 
 {{< image src="images/short_smoke_topmid.webp" alt="Short 3 Smoke" loading="lazy" >}}
