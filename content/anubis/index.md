@@ -24,6 +24,8 @@ Jumpthrow
 Run + Jumpthrow (when crosshair hits 2nd bottom stair)  
 {{< image src="images/anubis_t_molotov_hole.webp" alt="Hole Molotov" loading="lazy" >}}
 
+{{< video src="videos/anubis_t_molotov_hole.webm" type="video/webm"  muted="true" loop="true" >}}
+
 ### T-Spawn -> Hole [Smoke]
 
 +w Jumpthrow
