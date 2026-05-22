@@ -58,7 +58,7 @@ Jumpthrow
 ### T-Spawn -> Cave Entrance [Smoke]
 
 Jumpthrow
-{{< image src="images/bcave_smoke_tspawn.webp" alt="Cave" loading="lazy" >}}
+{{< image src="images/ancient_t_smoke_cave_entrance.webp" alt="Cave" loading="lazy" >}}
 
 ### T-Spawn -> Site Lurk [Smoke]
 
