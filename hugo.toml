@@ -6,7 +6,7 @@ theme = 'hugo-book'
 disablePathToLower = true
 
 [params]
-  BookTheme = 'dark'
+  BookTheme = 'catppuccin-dark'
   BookToC = true
   BookSection = "*"
   BookSearch = false

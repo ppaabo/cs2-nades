@@ -1,6 +1,47 @@
+@import "plugins/themes";
+
 video {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 1rem auto;
+}
+
+img {
+  margin-top: 0.5rem;
+}
+
+.map-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.map-item {
+  padding: 2rem;
+  background-color: var(--body-background);
+  border: 1px solid var(--gray-200);
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.map-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.map-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--body-font-color);
+}
+
+@media (max-width: 1000px) {
+  .map-grid {
+    grid-template-columns: 1fr;
+  }
 }
