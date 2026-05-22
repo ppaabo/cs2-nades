@@ -7,8 +7,7 @@ bookToC: true
 
 ## Insta Smokes
 
-### Spawns
-
+Spawns
 {{< image src="images/INSTA_SPAWNS.webp" alt="Insta Spawns" loading="lazy">}}
 
 ### Spawn 1 -> Window
