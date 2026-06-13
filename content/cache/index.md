@@ -22,12 +22,13 @@ Run + Jumpthrow
 
 ## A-Site [T]
 
-### Outside Spawn -> Backsite [Smoke]
+### Outside Garage -> Backsite [Smoke]
 
 {{< image src="images/cache_t_smoke_a_backsite.webp" alt="Backsite" loading="lazy" >}}
 
 ### Outside Door -> Cross Waterfall [Smoke]
 
+Jumpthrow (L+R Click)
 {{< image src="images/cache_t_smoke_a_cross_waterfall.webp" alt="Cross Waterfall" loading="lazy" >}}
 
 ## B-Site [T]
